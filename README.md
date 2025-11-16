@@ -87,13 +87,13 @@ interface range f0/3 - 4
 
 intface range f0/5 - 6
   switchport mode access
-  switch access vlan 20
+  switchport access vlan 20
 
 ```
 
 ✔️ What This Project Demonstrates
 
-This project highlights strong foundational networking skills crucial for CCNA-level roles:
+This project highlights strong foundational networking skills such as:
 - Correct subnetting & network planning
 - Understanding VLAN segmentation
 - Configuring inter-VLAN communication
